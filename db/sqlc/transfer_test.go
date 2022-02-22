@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/maslow123/go-simple-project/util"
+	"github.com/maslow123/simplebank/util"
 	"github.com/stretchr/testify/require"
 )
 

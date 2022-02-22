@@ -1,4 +1,4 @@
-module github.com/maslow123/go-simple-project
+module github.com/maslow123/simplebank
 
 go 1.17
 
